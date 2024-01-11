@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppGenericHostWithSample": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}
